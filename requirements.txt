@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+python-dotenv
+mysql-connector-python
+sentence-transformers
+chromadb
+numpy
+protobuf # Specific version to avoid conflicts
