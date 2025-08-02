@@ -1,6 +1,9 @@
 # StyleHub T-Shirts: AI-Powered Inventory Q&A System 👕
 
-![Project Banner](assets/Screenshot_1.png)
+<p align="center">
+  <img src="assets/stylehub-thumbnail.png" alt="StyleHub AI Thumbnail" width="700">
+</p>
+
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ibad-Ur-Rahman-Memon/StyleHub-T-Shirts?style=flat-square)
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
